@@ -1,0 +1,147 @@
+/* -----------------------------------------------header------------------------------------ */
+
+body{
+    margin: 0;
+}
+header ul>li{
+    margin-right: 30px;
+    font-weight: 800;
+}
+header {
+    padding: 10px 0px;
+}
+#btn_nav{
+    background-color: #FF6B81;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+/* -----------------------------------------------Sec1------------------------------------ */
+#sec1{
+    background-color: #FF6B81;
+}
+#App_store{
+    color: #FF6B81;
+    background-color: white;
+    border: none;
+}
+/* -----------------------------------------------Features------------------------------------ */
+#Features{
+    background-color: #F8F9FA;
+}
+#div_features{
+    margin: 0px 350px;
+    
+}
+#div_features h5{
+    color: #FF6B81;
+}
+#div_features h1{
+    font-weight: 700;
+}
+#icons_features{
+    background-color: #FF6B81;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
+#div_features_2{
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+/* -----------------------------------------------Sec2------------------------------------ */
+#btn_sec2{
+    color: white;
+    background-color:#FF6B81;
+}
+/* -----------------------------------------------Sec3------------------------------------ */
+#sec3{
+    background-color: #FF6B81;
+}
+#div_sec3>h3{
+   font-size: 3em;
+}
+/* -----------------------------------------------Pricing------------------------------------ */
+#Pricing{
+    background-color: #F8F9FA;
+}
+#div_Pricing{
+    margin: 0px 350px;
+    
+}
+#div_Pricing h5{
+color: #FF6B81;
+}
+#div_pricing_2{
+    padding-top: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+}
+#div_pricing_2 strong{
+    font-size: 2em;
+}
+#div_pricing_2 h5{
+    font-size: 1em;
+}
+#btn_pricing{
+    width: 100%;
+    margin-bottom: 20px;
+}
+#div_pricing_2 ul{
+    padding-left: 5px;
+    
+}
+#div_pricing_2 ul>li{
+    list-style: none;
+}
+#div_pricing_2 i{
+    color: #FF6B81;
+}
+#div_pricing_2>div{
+    border-top: 1px solid gainsboro;
+}
+/* -----------------------------------------------Team------------------------------------ */
+
+
+#div_Team{
+    margin: 0px 350px;
+}
+#div_Team h5{
+    color: #FF6B81;
+}
+#div_ico{
+    margin-left: 100px;
+    padding-top: 20px;
+    font-size: 1.5em;
+}
+#div_team_2 img{
+    border-radius:10px 10px 0px 0px ;
+}
+#div_und{
+border-top: none;
+border: 1px solid gainsboro;
+border-radius: 0px 0px 10px 10px;
+border-top: none;
+}
+#div_und>h5{
+    color: #FF6B81;
+}
+#div_und>h4{
+    color: black;
+    font-weight: 700;
+}
+/* -----------------------------------------------Ayro ui------------------------------------ */
+#ayro{
+    padding-top: 40px;
+    background-color: #F8F9FA;
+}
+#div_ayro_1{
+    margin: 0px 350px;
+}
+/* -----------------------------------------------Appvilla_sec------------------------------------ */
+#Appvilla{
+    background-color: #FF6B81;
+}
+#Appvilla_2{
+    margin: 0px 350px;
+}
